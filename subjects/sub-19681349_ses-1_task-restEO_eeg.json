@@ -1,0 +1,18 @@
+{
+    "TaskName": "restEO",
+    "Manufacturer": "Brainclinics Foundation",
+    "PowerLineFrequency": 50,
+    "SamplingFrequency": 500.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 120.026,
+    "RecordingType": "continuous",
+    "EEGReference": "EEG:Linked Mastoids, Erbs:C7",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "n/a",
+    "EEGChannelCount": 33,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0
+}
