@@ -4,7 +4,7 @@ This repostiory contains the code for the preprocessing and visualiation of EEG 
  
  #
  
- >The step by step visualization and preprocessing steps include are:
+ >The step by step visualization and preprocessing steps include:
  >- Loading of subject data
  >- Removing unnecessary modalities and channels
  >- Setting up montage
