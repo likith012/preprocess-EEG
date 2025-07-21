@@ -1,6 +1,6 @@
 ## preprocess-EEG
 
-This repostiory contains the code for the preprocessing and visualiation of EEG siganls with subect data provided for ease of experimenting.
+This repository contains code for the preprocessing and visualization of EEG signals, along with subject data provided for ease of experimentation.
  
  #
  
